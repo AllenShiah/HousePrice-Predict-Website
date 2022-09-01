@@ -4,7 +4,7 @@
 
 台灣房價預測網站。
 
-[Demo](https://cobra30621--twds2022-houseprice-predict-app-ouieh6.streamlitapp.com/house_predit)
+[Demo](https://cobra30621-houseprice-predict-website-app-a2ylnf.streamlitapp.com/)
 
 
 
